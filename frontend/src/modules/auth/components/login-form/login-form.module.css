@@ -1,0 +1,23 @@
+.form{
+
+    padding: 5px;
+}
+
+.error{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+
+@media (min-width: 400px) {
+    .form{
+        width: 400px;
+    }
+
+}
+

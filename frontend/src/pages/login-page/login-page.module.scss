@@ -1,0 +1,14 @@
+@import '~antd/dist/reset.css';
+
+.loginLayout {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+.logo{
+    text-shadow: none;
+}
+

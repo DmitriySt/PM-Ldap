@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/nest-cli",
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "",
+  "compilerOptions": {
+    "assets": [
+      {
+        "include": "static",
+        "watchAssets": true,
+        "outDir": "dist"
+      },
+      {
+        "include": "ssl",
+        "watchAssets": true,
+        "outDir": "dist"
+      }
+    ]
+  }
+}

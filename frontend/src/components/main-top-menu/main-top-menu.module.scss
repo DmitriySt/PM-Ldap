@@ -1,0 +1,19 @@
+.menu{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.userInfo{
+
+}
+
+.userExit{
+
+}
+
+@media (max-width: 768px) {
+  .userInfo{
+    display: none !important;
+  }
+}
+
