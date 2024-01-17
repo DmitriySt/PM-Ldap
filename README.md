@@ -13,7 +13,7 @@ demo: [pm-demo.host15.ru](https://pm-demo.host15.ru/)
 Будет рассмотрен способ запуска "монолитного" приложения.
 
 1. Клонирование репозитория
-```git clone https://github.com/DmitriySt/PM-Ldap.git```
+```git clone https://github.com/DmitriySt/PasswordManager-Ldap.git```
 2. Переходим в директорию с PM-Ldap
 ```cd PM-Ldap```
 3. Устанавливаем зависимости:  
